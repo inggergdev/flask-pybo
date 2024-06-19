@@ -1,2 +1,13 @@
 
 https://github.com/inggergdev/flask-pybo.git
+
+프로그램 변경 작업하기
+git add <파일명> 또는 git add * 명령 수행하기
+git commit -m "커밋 코멘트" 명령 수행하기
+git push 명령 수행하기
+
+
+Public static IP address
+This static IP is available for public connection worldwide.
+
+43.202.56.56
